@@ -1,0 +1,117 @@
+\providecommand{\abntreprintinfo}[1]{%
+ \citeonline{#1}}
+\setlength{\labelsep}{0pt}\begin{thebibliography}{}
+\providecommand{\abntrefinfo}[3]{}
+\providecommand{\abntbstabout}[1]{}
+\abntbstabout{v-1.9.7 }
+
+\bibitem[An, Chaudhuri e Foster 2009]{an2009static}
+\abntrefinfo{An, Chaudhuri e Foster}{AN; CHAUDHURI; FOSTER}{2009}
+{AN, J.-h.; CHAUDHURI, A.; FOSTER, J.~S. Static typing for ruby on rails. In:
+  IEEE. \emph{2009 IEEE/ACM International Conference on Automated Software
+  Engineering}. [S.l.], 2009. p. 590--594.}
+
+\bibitem[Astels, Miller e Novak 2002]{astels2002extreme}
+\abntrefinfo{Astels, Miller e Novak}{ASTELS; MILLER; NOVAK}{2002}
+{ASTELS, D.; MILLER, G.; NOVAK, M. Extreme programming: guia pr{\'a}tico.
+\emph{Rio de Janeiro: Campus}, 2002.}
+
+\bibitem[B{\"a}chle e Kirchberg 2007]{bachle2007ruby}
+\abntrefinfo{B{\"a}chle e Kirchberg}{B{\"A}CHLE; KIRCHBERG}{2007}
+{B{\"A}CHLE, M.; KIRCHBERG, P. Ruby on rails.
+\emph{IEEE software}, IEEE, v.~24, n.~6, p. 105--108, 2007.}
+
+\bibitem[Devmedia 2008]{qualidadeSoftware2008}
+\abntrefinfo{Devmedia}{DEVMEDIA}{2008}
+{DEVMEDIA. 2008.
+Online; accessed 21 nov. 2019.
+Dispon{\'\i}vel em:
+  \url{https://www.devmedia.com.br/qualidade-de-software/9408}.}
+
+\bibitem[Hacker 2008]{HackerScot2008}
+\abntrefinfo{Hacker}{HACKER}{2008}
+{HACKER, S. 2008.
+Online; accessed 04 November 2019.
+Dispon{\'\i}vel em: \url{http://birdhouse.org/blog/2008/11/19/
+  notes-on-a-django-migration}.}
+
+\bibitem[Hartl e Fernandez 2011]{hartl2011ruby}
+\abntrefinfo{Hartl e Fernandez}{HARTL; FERNANDEZ}{2011}
+{HARTL, M.; FERNANDEZ, O.~O. \emph{The Ruby on Rails 3 Tutorial and Reference
+  Collection (Collection)}. [S.l.]: Addison-Wesley, 2011.}
+
+\bibitem[Lei, Ma e Tan 2014]{lei2014performance}
+\abntrefinfo{Lei, Ma e Tan}{LEI; MA; TAN}{2014}
+{LEI, K.; MA, Y.; TAN, Z. Performance comparison and evaluation of web
+  development technologies in php, python, and node. js. In:  IEEE. \emph{2014
+  IEEE 17th international conference on computational science and engineering}.
+  [S.l.], 2014. p. 661--668.}
+
+\bibitem[McKeever 2003]{mckeever2003understanding}
+\abntrefinfo{McKeever}{MCKEEVER}{2003}
+{MCKEEVER, S. Understanding web content management systems: evolution,
+  lifecycle and market.
+\emph{Industrial management \& data systems}, MCB UP Ltd, v.~103, n.~9, p.
+  686--692, 2003.}
+
+\bibitem[Plekhanova 2009]{plekhanova2009evaluating}
+\abntrefinfo{Plekhanova}{PLEKHANOVA}{2009}
+{PLEKHANOVA, J. Evaluating web development frameworks: Django, ruby on rails
+  and cakephp.
+\emph{Institute for Business and Information Technology}, 2009.}
+
+\bibitem[PRESSMAN 2016]{pressman2016engenharia}
+\abntrefinfo{PRESSMAN}{PRESSMAN}{2016}
+{PRESSMAN, R.~S. Engenharia de software, uma abordagem
+  profissional--8{\textordfeminine} ed--amgh editora ltda.
+\emph{Porto Alegre--RS-2016}, 2016.}
+
+\bibitem[Rezende 2006]{rezende2006engenharia}
+\abntrefinfo{Rezende}{REZENDE}{2006}
+{REZENDE, D.~A. \emph{Engenharia de software e sistemas de
+  informa{\c{c}}{\~a}o}. [S.l.]: Brasport, 2006.}
+
+\bibitem[Ruby, Thomas et al. 2009]{ruby2009agile}
+\abntrefinfo{Ruby, Thomas et al.}{RUBY; THOMAS et al.}{2009}
+{RUBY, S.; THOMAS, D. et al. \emph{Agile web development with rails}. [S.l.]:
+  Raleigh, NC: Pragmatic Bookshelf, 2009.}
+
+\bibitem[Scorza 2018]{adminGitHub2018}
+\abntrefinfo{Scorza}{SCORZA}{2018}
+{SCORZA, L. 2018.
+Online; accessed 17 nov. 2019.
+Dispon{\'\i}vel em: \url{https://onebitcode.com/rails-admin-tutorial-1/}.}
+
+\bibitem[SILVA 2015]{relacionamentos2015}
+\abntrefinfo{SILVA}{SILVA}{2015}
+{SILVA, J. D.~T. 2015.
+Online; accessed 20 nov. 2019.
+Dispon{\'\i}vel em:
+  \url{https://www.devmedia.com.br/introducao-a-relacionamentos-no-ruby-on-rails/33860}.}
+
+\bibitem[SOMMERVILLE 2011]{SOMMERVILLE}
+\abntrefinfo{SOMMERVILLE}{SOMMERVILLE}{2011}
+{SOMMERVILLE, I. \emph{Engenharia de Software}. 3. ed. [S.l.]: Pearson
+  Education, 2011. Acesso em: 18 nov 2019.}
+
+\bibitem[Stonebraker et al. 1988]{stonebraker1988design}
+\abntrefinfo{Stonebraker et al.}{STONEBRAKER et al.}{1988}
+{STONEBRAKER, M. et al. The design of xprs. In:  \emph{VLDB}. [S.l.: s.n.],
+  1988. p. 318--330.}
+
+\bibitem[Stonebraker e Rowe 1986]{stonebraker1986design}
+\abntrefinfo{Stonebraker e Rowe}{STONEBRAKER; ROWE}{1986}
+{STONEBRAKER, M.; ROWE, L.~A. \emph{The design of Postgres}. [S.l.]: ACM, 1986.
+  v.~15.}
+
+\bibitem[Tapiador e Salvach{\'u}a 2012]{tapiador2012content}
+\abntrefinfo{Tapiador e Salvach{\'u}a}{TAPIADOR; SALVACH{\'U}A}{2012}
+{TAPIADOR, A.; SALVACH{\'U}A, J. Content management in ruby on rails.
+\emph{arXiv preprint arXiv:1209.3878}, 2012.}
+
+\bibitem[Taylor 2010]{taylor2010rails}
+\abntrefinfo{Taylor}{TAYLOR}{2010}
+{TAYLOR, B. \emph{Rails: a guide to rails, crakes, gallinules and coots of the
+  world}. [S.l.]: Bloomsbury Publishing, 2010.}
+
+\end{thebibliography}
